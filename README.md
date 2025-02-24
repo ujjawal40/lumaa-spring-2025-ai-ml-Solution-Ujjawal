@@ -27,11 +27,13 @@ A content-based recommendation system for anime lovers! Just describe your prefe
 1. **Clone this repository**
 ```bash
 git clone https://github.com/ujjawal40/lumaa-spring-2025-ai-ml-Solution-Ujjawal.git
+```
 
 2. **Run the Recommender**
 ```bash
 cd lumaa-spring-2025-ai-ml-Solution-Ujjawal
 python Anime Recommendation System.py
+```
 
 ### **That's it!** 🎉  
 No external dependencies or setup required.
