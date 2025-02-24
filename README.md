@@ -1,1 +1,19 @@
-```markdown # ✨🌸 Anime Recommendation System 🌸✨ This project contains an Anime Recommendation System that runs right out of the box. The dataset is included in this repository, so you only need to download the fork and run the code—no additional external dependencies required. ## Overview - The dataset has been **cleaned** and **pre-processed**. - The system uses **TF-IDF vectorization** and **cosine similarity** to generate anime recommendations based on user queries. - Simply download the repository and run the script to get started. ## Getting Started 1. **Download the Repository** Clone or download the fork from GitHub. 2. **Run the Code** Open a terminal in the project directory and run: ```bash python AnimeRecommendationSystem.py ``` *(Replace `AnimeRecommendationSystem.py` with the actual filename if it differs.)* 3. **Usage** Follow the on-screen instructions to enter your query (e.g., genres, type, rating requirements) and view the recommendations. ## How It Works 1. **Filtering** - The system parses your query to extract filters (genres, type, max episodes, min rating, etc.). - It removes any anime entries that don’t match these criteria. 2. **Feature Vectorization** - Each anime’s metadata (genres, type, etc.) is converted into numerical vectors using **TF-IDF**. 3. **Similarity Calculation** - We compute the **cosine similarity** between your query vector and each anime vector. - The higher the similarity, the more relevant the anime is to your query. 4. **Recommendation** - Anime are sorted by similarity (and rating) to display the most relevant titles first. ## Dataset The dataset used in this project is from [Kaggle's Anime Recommendations Database](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?resource=download). It has already been **cleaned** and **pre-processed** for easy use in this system. ## No External Dependencies All necessary data and dependencies are included within this repository. Simply **download the fork** and **run the code**—that’s it! --- Feel free to adjust the file name references or add additional details about your project setup as needed. ```
+# ✨🌸 Anime Recommendation System 🌸✨
+
+Welcome to the Anime Recommendation System! This project provides personalized anime suggestions based on your preferences, right out of the box. No external data downloads required! 
+
+---
+
+## 🚀 **Overview**
+- **Content-Based Filtering**: Uses TF-IDF vectorization and cosine similarity to match anime based on genres/type.
+- **Pre-Processed Dataset**: Cleaned and optimized for quick recommendations.
+- **User-Friendly**: Accepts natural language queries (e.g., _"sci-fi movies with historical elements"_).
+
+---
+
+## 🛠️ **Getting Started**
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/your-username/anime-recommendation-system.git
+cd anime-recommendation-system
