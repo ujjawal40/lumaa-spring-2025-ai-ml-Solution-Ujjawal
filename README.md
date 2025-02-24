@@ -4,6 +4,11 @@ Welcome to the Anime Recommendation System! This project provides personalized a
 
 ---
 
+## Video Demo
+
+Watch a brief screen recording of the system in action here, please fast forward to 00:30 :  
+[**Watch the Demo**](https://youtu.be/Mc_QuK6uhi4)
+
 ## 🚀 **Overview**
 - **Content-Based Filtering**: Uses TF-IDF vectorization and cosine similarity to match anime based on genres/type.
 - **Pre-Processed Dataset**: Cleaned and optimized for quick recommendations.
