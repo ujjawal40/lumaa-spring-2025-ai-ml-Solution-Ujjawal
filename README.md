@@ -14,6 +14,16 @@ Welcome to the Anime Recommendation System! This project provides personalized a
 ## 🛠️ **Getting Started**
 
 ### 1. **Clone the Repository**
+# 🎌 Anime Recommendation System
+
+<img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version"> <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status">
+
+A content-based recommendation system for anime lovers! Just describe your preferences and get instant suggestions. 
+
+---
+
+## 🚀 Quick Start
+
+1. **Clone this repository**
 ```bash
-git clone https://github.com/your-username/anime-recommendation-system.git
-cd anime-recommendation-system
+git clone https://github.com/ujjawal40/lumaa-spring-2025-ai-ml-Solution-Ujjawal.git
