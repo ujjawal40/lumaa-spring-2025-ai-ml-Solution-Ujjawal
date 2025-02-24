@@ -58,7 +58,7 @@ No external dependencies or setup required.
 - **Algorithm**: TF-IDF + Cosine Similarity  
 - **Dataset**: Pre-processed subset from [Kaggle Anime Dataset](https://www.kaggle.com/CooperUnion/anime-recommendations-database)  
 - **Code Structure**:  
-├── anime_recommender.py # Main script
+├── Anime Recommender System.py # Main script
 ├── anime.csv # Pre-processed dataset
 └── README.md # This documentation
 
