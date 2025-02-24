@@ -27,3 +27,36 @@ A content-based recommendation system for anime lovers! Just describe your prefe
 1. **Clone this repository**
 ```bash
 git clone https://github.com/ujjawal40/lumaa-spring-2025-ai-ml-Solution-Ujjawal.git
+
+2. **Run the Recommender**
+```bash
+cd lumaa-spring-2025-ai-ml-Solution-Ujjawal
+python Anime Recommendation System.py
+
+**That's it!** 🎉  
+No external dependencies or setup required.
+
+## 🎯 Features
+
+- **Natural Language Queries**  
+  Example: `"sci-fi movies with historical elements"`  
+  The system understands free-form text input!
+
+- **Smart Filtering**  
+  Filter by:  
+  ✅ Genre | ✅ Type (Movie/TV) | ✅ Episode Count | ✅ Ratings
+
+- **Instant Results**  
+  Get recommendations with similarity scores in seconds.
+
+- **Pre-Cleaned Dataset**  
+  Includes `anime.csv` with optimized metadata.
+## 📦 Technical Details
+
+- **Algorithm**: TF-IDF + Cosine Similarity  
+- **Dataset**: Pre-processed subset from [Kaggle Anime Dataset](https://www.kaggle.com/CooperUnion/anime-recommendations-database)  
+- **Code Structure**:  
+├── anime_recommender.py # Main script
+├── anime.csv # Pre-processed dataset
+└── README.md # This documentation
+
