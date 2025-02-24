@@ -33,7 +33,7 @@ git clone https://github.com/ujjawal40/lumaa-spring-2025-ai-ml-Solution-Ujjawal.
 cd lumaa-spring-2025-ai-ml-Solution-Ujjawal
 python Anime Recommendation System.py
 
-**That's it!** 🎉  
+### **That's it!** 🎉  
 No external dependencies or setup required.
 
 ## 🎯 Features
